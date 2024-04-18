@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.card:hover {
+  box-shadow: 1px 1px 5px black;
+}
+
+.img {
+  width: 100vw;
+  height: 100vh;
+}
+.footer {
+  display: Black;
+  background-color: #dcedc2;
+}
+.navbar {
+  background-color: #dcedc2;
+}
+.div1:hover {
+  background-color: lightorange;
+}
+
